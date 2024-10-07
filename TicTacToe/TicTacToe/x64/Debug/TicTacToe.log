@@ -1,0 +1,12 @@
+﻿  Source.cpp
+Y:\VS19\TicTacToe\TicTacToe\Source.cpp(17,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\VS19\TicTacToe\TicTacToe\Source.cpp(97,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\VS19\TicTacToe\TicTacToe\Source.cpp(118,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\VS19\TicTacToe\TicTacToe\Source.cpp(139,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\VS19\TicTacToe\TicTacToe\Source.cpp(160,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\VS19\TicTacToe\TicTacToe\Source.cpp(181,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\VS19\TicTacToe\TicTacToe\Source.cpp(197,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\VS19\TicTacToe\TicTacToe\Source.cpp(223,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Y:\VS19\TicTacToe\TicTacToe\Source.cpp(357,6): warning C4101: 'compInput': unreferenced local variable
+Y:\VS19\TicTacToe\TicTacToe\Source.cpp(218): warning C4715: 'check': not all control paths return a value
+  TicTacToe.vcxproj -> Y:\VS19\TicTacToe2022\Solution1\x64\Debug\TicTacToe.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\anima\source\repos\tictactoe\tictactoe\source.cpp(356): warning C4101: 'compInput': unreferenced local variable
+c:\users\anima\source\repos\tictactoe\tictactoe\source.cpp(217): warning C4715: 'check': not all control paths return a value
+  TicTacToe.vcxproj -> C:\Users\anima\source\repos\TicTacToe\Debug\TicTacToe.exe
